@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon routers/index.js"
+    "test":"nodemon routers/index.js",
+    "start": "node routers/index.js"
   },
   "author": "Sai Ganesh Reddy Buthukuri",
   "license": "ISC",
